@@ -36,3 +36,28 @@ Take a look at -- http://YOUR_APP_ID.appspot.com/
 
 #### Home
 ![Home](screens/1.home.png)
+
+#### Browse Roommates
+![Home](screens/2.browseRoomMates.png)
+
+#### Browse Rooms
+![Home](screens/3.browseRooms.png)
+
+#### Post ads
+![Home](screens/4.postads.png)
+
+#### Profile
+![Home](screens/5.profile.png)
+
+#### Need aroom ad
+![Home](screens/6.needroomad.png)
+
+#### List a room ad
+![Home](screens/7.listroomad.png)
+
+#### My Listings
+![Home](screens/8.mylistings.png)
+
+#### Inbox
+![Home](screens/9.inbox.png)
+
